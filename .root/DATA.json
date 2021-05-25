@@ -1,0 +1,8 @@
+{
+  "REGION": "US"
+  ,"LANGUAGE": "en_US"
+  ,"COLOR": "BLUE"
+  ,"INTEGER-SIZE": "8"
+  ,"DECIMAL-SIZE-MAX": "255"
+  ,"LICESNSE": "GNU-General-Public-License-v3"
+}
